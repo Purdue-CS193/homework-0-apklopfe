@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [On YouTube](https://youtu.be/dQw4w9WgXcQ)
 
-![Image](https://www.nme.com/en_asia/news/music/rick-astleys-never-gonna-give-you-up-reaches-one-billion-youtube-views-i-am-kind-of-a-big-deal-3006179)
+![](https://www.nme.com/wp-content/uploads/2021/07/RickAstley2021.jpg)
 
 ### Jekyll Themes
 
