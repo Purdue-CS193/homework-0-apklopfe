@@ -23,10 +23,14 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and ![Image](https://www.nme.com/en_asia/news/music/rick-astleys-never-gonna-give-you-up-reaches-one-billion-youtube-views-i-am-kind-of-a-big-deal-3006179)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+##YouTube Vid
+[On YouTube](https://youtu.be/dQw4w9WgXcQ)
+![](https://www.nme.com/en_asia/news/music/rick-astleys-never-gonna-give-you-up-reaches-one-billion-youtube-views-i-am-kind-of-a-big-deal-3006179)
 
 ### Jekyll Themes
 
