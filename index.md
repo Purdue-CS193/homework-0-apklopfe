@@ -1,6 +1,6 @@
 # Adam Klopfenstein's First CS193 Homework
 
-### Things I'm excited for in this class
+### Things I'm excited for in this class:
 - Learning about useful CS resources
 - Hearing the experiences of upperclassmen in the CS depertment
 
